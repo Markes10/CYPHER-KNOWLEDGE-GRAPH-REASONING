@@ -1,0 +1,8 @@
+{
+  "id": "15",
+  "name": "15-cypher-knowledge-graph-reasoning",
+  "title": "Enterprise Knowledge Graph Reasoning Platform",
+  "language": "Cypher",
+  "domain": "Graph Databases & Enterprise Ontology Reasoning",
+  "description": "Cypher graph ontology queries and traversal algorithms to calculate disruption blast radii, single points of failure, and multi-tier supplier dependencies."
+}

@@ -1,4 +1,4 @@
-# 15 - Supply Chain Cascade Blast Radius Engine (Cypher / Neo4j)
+# Supply Chain Cascade Blast Radius Engine (Cypher / Neo4j)
 
 ## Executive Overview
 An enterprise graph analytics engine written in **Cypher** for the **Neo4j** graph database. It models multi-tier global supply chain ontologies (OEMs, sub-assemblies, tier-1/2/3 suppliers, shipping lanes) and computes disruption cascade blast radii and revenue-at-risk when geopolitical or logistical bottlenecks occur.
